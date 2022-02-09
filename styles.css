@@ -7,4 +7,8 @@ body{
     font-family:Poppins;
     background:#d3d3d314;
 }
-.center{text-align: center;}
+.center{
+    text-align: center;
+    font-size: xx-large;
+    font-style: normal;
+}
